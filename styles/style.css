@@ -221,3 +221,45 @@ nav li a:hover {
 
 /* Icon Section Ends  */
 
+/* Hot Deal Section Starts */
+.hot-deal-container {
+    margin-top: 100px;
+    width: 100%;
+    height: 420px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.hot-deal-contents {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.deal-description {
+    padding-top: 50px;
+}
+
+.deal-heading {
+    padding-top: 90px;
+    width: 600px;
+}
+
+.deal-text {
+    margin-top: 20px;
+    text-align: center;
+    width: 550px;
+}
+
+.deal-button {
+    margin-top: 20px;
+    margin-left: 220px;
+
+}
+
+.deal-img {
+    width: 310px;
+    height: 380px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+/* Hot Deal Section Ends  */
