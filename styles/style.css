@@ -122,3 +122,68 @@ nav li a:hover {
 }
 
 /* Header/Banner Ends  */
+
+/* Featured Flowers Section Starts */
+.fetured-description {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.fetured-text {
+    padding-top: 10px;
+
+}
+
+.fetured-img-contents {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: #FFF;
+}
+
+.rectangle-1 {
+    width: 260px;
+    height: 350px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    margin-right: 15px;
+}
+
+.rectangle-2 {
+    width: 260px;
+    height: 350px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+
+
+.rectangle-3 {
+    width: 260px;
+    height: 350px;
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    margin-left: 15px;
+}
+
+.fetured-img {
+    width: 200px;
+    height: 290px;
+    padding: 60px 25px 0px 25px;
+}
+
+.fetured-img-2 {
+    width: 200px;
+    height: 290px;
+    padding: 60px 25px 0px 30px;
+}
+
+.caption {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #272727;
+    text-decoration-line: underline;
+    padding-top: 10px;
+}
+
+/* Featured Flowers Section Ends  */
