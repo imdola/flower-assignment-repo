@@ -364,3 +364,58 @@ nav li a:hover {
 }
 
 /* Instagram Section Ends  */
+
+/* Search Box Section Starts  */
+.search-box-container {
+    width: 1030px;
+    height: 300px;
+    position: relative;
+    margin: 200px auto;
+}
+
+
+
+.search-img img {
+    width: 1030px;
+    height: 300px;
+}
+
+.search-heading {
+    position: absolute;
+    top: 75px;
+    left: 360px;
+    font-size: 44px;
+    color: #272727;
+    text-align: center;
+    font-weight: 800;
+}
+
+.search-text {
+    position: absolute;
+    top: 130px;
+    left: 430px;
+    font-size: 14px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-weight: 400;
+}
+
+.box-button {
+    position: absolute;
+    top: 160px;
+    left: 190px;
+}
+
+.box {
+    width: 470px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    padding-left: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* Search Box Section Ends  */
