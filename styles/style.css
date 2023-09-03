@@ -88,3 +88,37 @@ nav li a:hover {
 }
 
 /* Nav Ends */
+
+/* Header/Banner Starts */
+.banner-container {
+    width: 100%;
+    height: 450px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner-contents {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.banner-heading {
+    padding-top: 90px;
+    width: 600px;
+}
+
+.banner-text {
+    margin-top: 20px;
+    width: 550px;
+}
+
+.banner-button {
+    margin-top: 20px;
+}
+
+.banner-img {
+    width: 310px;
+    height: 428px;
+    padding-top: 22px;
+}
+
+/* Header/Banner Ends  */
