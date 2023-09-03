@@ -319,3 +319,48 @@ nav li a:hover {
 }
 
 /* special attraction section ends */
+
+/* Instagram Section Starts */
+.instagram-container {
+    margin-top: 100px;
+
+}
+
+.insta-text {
+    text-align: center;
+}
+
+.insta-heading {
+    text-align: center;
+}
+
+.insta-text {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.insta-flowers {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 5px 300px 0px 300px;
+}
+
+.insta-flowers img {
+    width: 250px;
+    height: 290px;
+}
+
+.flower06 {
+    padding-right: 10px;
+}
+
+.flower08 {
+    padding-left: 10px;
+}
+
+.flower09 {
+    padding-left: 10px;
+}
+
+/* Instagram Section Ends  */
