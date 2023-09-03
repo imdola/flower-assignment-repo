@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+/* common topics starts */
+.color-primary {
+    color: #E55473;
+}
+
+.bc-color {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.heading {
+    color: #272727;
+    font-size: 44px;
+    font-weight: 800;
+}
+
+.text {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+.btn {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 10px 30px;
+    border: none;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+/* common topics ends */
