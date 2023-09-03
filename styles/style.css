@@ -467,3 +467,36 @@ nav li a:hover {
 }
 
 /* Video Section Ends */
+
+/* Footer Section Starts  */
+footer {
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 0;
+    background-color: #111010;
+}
+
+.footer-heading {
+    text-align: center;
+    color: #FFF;
+    padding-top: 80px;
+}
+
+.footer-text {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.copyright {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+/* Footer Section Ends  */
