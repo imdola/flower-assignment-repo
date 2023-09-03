@@ -263,3 +263,59 @@ nav li a:hover {
 }
 
 /* Hot Deal Section Ends  */
+
+/* special attraction section starts */
+.special-attraction {
+    margin-top: 100px;
+}
+
+.special-heading {
+    text-align: center;
+}
+
+.all-att {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+.attraction {
+    text-align: center;
+    width: 20%;
+    background-color: rgba(229, 84, 115, 0.10);
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 80px;
+    box-shadow: 2px 2px 10px black;
+}
+
+.special-img img {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.special-text {
+    text-align: center;
+    padding-top: 10px;
+    color: #272727;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.special-des {
+    text-align: center;
+    padding-top: 8px;
+    color: #272727;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.special-button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* special attraction section ends */
